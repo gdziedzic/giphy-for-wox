@@ -1,0 +1,12 @@
+{
+    "ID":"ffff000000000000000000057972888",
+    "ActionKeyword":"giphy",
+    "Name":"Giphy wox integration",
+    "Description":"Wox plugin made by Grzegorz Dziedzic",
+    "Author":"Grzegorz Dziedzic",
+    "Version":"1.0.0",
+    "Language":"python",
+    "Website":"https://xxxxxx",
+    "IcoPath":"Images\\app.png",
+    "ExecuteFileName":"main.py"
+}

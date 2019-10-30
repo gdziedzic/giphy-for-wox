@@ -1,0 +1,3 @@
+python deploy.py
+python deploy.py "just main.py"
+start https://github.com/Giphy/giphy-python-client/blob/master/docs/DefaultApi.md
