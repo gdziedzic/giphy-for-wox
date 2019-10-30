@@ -4,7 +4,7 @@ Helps you find cool gif
 
 ## Getting Started
 
-Look at config.json file. It has to point to QuickLook app (https://github.com/QL-Win/QuickLook)
+Look at config.json file. quick_look_path has to point to QuickLook app (https://github.com/QL-Win/QuickLook)
 
 ### Prerequisites
 
